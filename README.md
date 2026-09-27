@@ -1,3 +1,1 @@
-Readme file for my homework repo (why?)
-
-I only created this repo just because my teacher told me to (as I mentioned in the description). Don't expect anything impressive from a teenager.
+Repo with cool cookies
